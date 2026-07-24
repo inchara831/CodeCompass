@@ -28,6 +28,7 @@ AI-Powered Coding Assistant
 - Python
 - Google Gemini API
 - Axios
+<<<<<<< HEAD
 - Tailwind CSS
 
 ---
@@ -41,3 +42,15 @@ AI-Powered Coding Assistant
 ## 👩‍💻 Author
 
 **Inchara**
+=======
+
+## How to Run
+
+### Backend
+
+cd backend
+uvicorn main:app --reload
+
+
+
+>>>>>>> 0bc31328e78bd472dee9fe5056380deb2f8162e5
