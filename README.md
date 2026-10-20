@@ -33,9 +33,6 @@ AI-Powered Coding Assistant
 
 ---
 
-## 📸 Screenshot
-
-(Add your project screenshot here later.)
 
 ---
 
